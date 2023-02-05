@@ -22,7 +22,7 @@ class OrderControllerTest extends TestCase
      */
     public function shouldCreateANewOrder()
     {
-        $product = \App\Models\Product::factory(Product::class)->create([
+        $product = \App\Models\Product::factory()->create([
             'inventory' => 5
         ]);
 
