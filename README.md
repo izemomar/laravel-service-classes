@@ -2,6 +2,8 @@
 
 This tutorial demonstrates the implementation of service classes in a Laravel project. The goal of this tutorial is to demonstrate how to separate business logic from controllers and make the code more maintainable and testable.
 
+check out the full article [here](https://blog.izem.dev/unleash-the-potential-of-your-laravel-app-with-service-classes)
+
 ## Important Files to Check
 
 -   [`app/Http/Controllers/OrderController.php`](https://github.com/izemomar/laravel-service-classes/blob/main/app/Http/Controllers/OrderController.php)
